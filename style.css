@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+}
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.img img{
+    border-radius: 60px;
+    width: 300px;
+    height: 320px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: flex-end;
+}
+h1{
+    font-size: 30px;
+    color: #1d1e4c;
+    text-transform: uppercase;
+}
+h4{
+    text-align: end;
+    font-size: 20px;
+}
+.about{
+    margin-top: 20px;
+
+}
+h2{
+    font-size: 50px;
+    font-weight: 400;
+}
+p{
+    line-height: 30px;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+}
+.kalam img{
+    width: 800px;
+    margin-top: 20px;
+}
+.biography h3{
+    font-size: 30px;
+    margin-top: 20px;
+}
+ul{
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+footer{
+    margin: 50px 0px;
+    text-align: end;
+    font-size: 20px;
+    text-decoration: none;
+}
